@@ -1,10 +1,11 @@
+import BarcelonaFc from "./components/BarcelonaFc"
 import It from "./components/It"  
 function App() {
 
   return (
-   <div>
-    
+   <div>    
     <It />
+    <BarcelonaFc />
    </div>
   )
 }
